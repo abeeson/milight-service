@@ -1,6 +1,6 @@
 #! /usr/bin/perl -w
 
-## Version 0.4 (9/9/15)
+## Version 0.4 (09/09/2015)
 #
 # Edit SQLite DB file path in get_dbsource subroutine
 
