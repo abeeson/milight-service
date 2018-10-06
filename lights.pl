@@ -9,7 +9,7 @@ use strict;
 
 my $query = new CGI;
 my $api = $query->param('api');
-## ENTER A API KEY BELOW
+## ENTER AN API KEY BELOW
 my $apiKey = '<GENERATE KEY>';
 
 print $query->header("text/plain");
